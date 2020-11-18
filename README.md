@@ -1,5 +1,7 @@
 # Lebenslauf
 
+![Testperson](./image.png)
+
 ## Person, Test
 > 12 Addresse						
 > Heimatstadt 3456                      
